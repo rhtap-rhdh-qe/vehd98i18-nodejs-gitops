@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vehd98i18-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vehd98i18-nodejs-gitops
